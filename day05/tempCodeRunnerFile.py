@@ -1,0 +1,1 @@
+raise Exception("模拟进程崩溃")
