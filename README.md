@@ -55,7 +55,7 @@
 
 学完 Redis 阶段2 后做的订单系统实战项目（包含 Redis 在真实业务中的使用）：
 
-👉 [order-system](https://github.com/aixiaoqinghe/order-system)
+👉 [order_system](https://github.com/aixiaoqinghe/order_system)
 
 ## 环境
 
